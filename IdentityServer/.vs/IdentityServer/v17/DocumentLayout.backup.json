@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|c:\\users\\senda\\onedrive\\documents\\github\\identityserver\\identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|c:\\users\\senda\\onedrive\\documents\\github\\identityserver\\identityserver\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|solutionrelative:hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:46:04.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HostingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\HostingExtensions.cs",
+              "RelativeDocumentMoniker": "HostingExtensions.cs",
+              "ToolTip": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\HostingExtensions.cs",
+              "RelativeToolTip": "HostingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:44:54.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
