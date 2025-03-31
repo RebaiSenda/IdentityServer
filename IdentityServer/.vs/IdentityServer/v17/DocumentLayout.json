@@ -9,6 +9,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|c:\\users\\senda\\onedrive\\documents\\github\\identityserver\\identityserver\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|solutionrelative:hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|c:\\users\\senda\\onedrive\\documents\\github\\identityserver\\identityserver\\pages\\testusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|solutionrelative:pages\\testusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|c:\\users\\senda\\onedrive\\documents\\github\\identityserver\\identityserver\\pages\\externallogin\\callback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|solutionrelative:pages\\externallogin\\callback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|c:\\users\\senda\\onedrive\\documents\\github\\identityserver\\identityserver\\pages\\diagnostics\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|solutionrelative:pages\\diagnostics\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|c:\\users\\senda\\onedrive\\documents\\github\\identityserver\\identityserver\\pages\\consent\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|solutionrelative:pages\\consent\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|c:\\users\\senda\\onedrive\\documents\\github\\identityserver\\identityserver\\pages\\account\\logout\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DAD1B4-D38C-4C7C-A5CC-62494EA0331F}|IdentityServer.csproj|solutionrelative:pages\\account\\logout\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +38,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Callback.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Pages\\ExternalLogin\\Callback.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ExternalLogin\\Callback.cshtml.cs",
+              "ToolTip": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Pages\\ExternalLogin\\Callback.cshtml.cs",
+              "RelativeToolTip": "Pages\\ExternalLogin\\Callback.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:39:20.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Pages\\Diagnostics\\ViewModel.cs",
+              "RelativeDocumentMoniker": "Pages\\Diagnostics\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Pages\\Diagnostics\\ViewModel.cs",
+              "RelativeToolTip": "Pages\\Diagnostics\\ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:39:13.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Pages\\Consent\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Consent\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Pages\\Consent\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Consent\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:39:03.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Pages\\Account\\Logout\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Pages\\Account\\Logout\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Logout\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:37:18.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Pages\\TestUsers.cs",
+              "RelativeDocumentMoniker": "Pages\\TestUsers.cs",
+              "ToolTip": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Pages\\TestUsers.cs",
+              "RelativeToolTip": "Pages\\TestUsers.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:36:26.081Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +108,7 @@
               "RelativeDocumentMoniker": "Config.cs",
               "ToolTip": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\Config.cs",
               "RelativeToolTip": "Config.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T16:46:04.159Z",
               "EditorCaption": ""
@@ -41,7 +121,7 @@
               "RelativeDocumentMoniker": "HostingExtensions.cs",
               "ToolTip": "C:\\Users\\Senda\\OneDrive\\Documents\\GitHub\\IdentityServer\\IdentityServer\\HostingExtensions.cs",
               "RelativeToolTip": "HostingExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T16:44:54.675Z"
             }
